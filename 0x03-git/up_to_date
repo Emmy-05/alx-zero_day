@@ -1,1 +1,1 @@
-mkdir up_to_date
+git pull https://github.com/Emmy-05/alx-zero_day.git
